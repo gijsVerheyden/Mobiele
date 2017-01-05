@@ -1,4 +1,4 @@
-package com.example.wolkje.aphasia;
+package com.example.wolkje.aphasia.model.question;
 
 import java.util.ArrayList;
 
